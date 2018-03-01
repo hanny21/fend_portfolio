@@ -1,0 +1,27 @@
+/*
+  This styleheet containt CSS Flexbox rules
+  and media queries...
+*/
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  width: 100%;
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.logo {
+  width: 30%;
+}
+
+.name {
+  width: 70%;
+}
