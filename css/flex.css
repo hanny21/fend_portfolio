@@ -12,6 +12,8 @@
   width: 100%;
 }
 
+/* HEADER */
+
 header {
   display: flex;
   flex-wrap: wrap;
@@ -24,4 +26,15 @@ header {
 
 .name {
   width: 70%;
+}
+
+/* LANDING SECTION */
+
+.landing {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wallpaper, .about_me {
+  width: 100%;
 }

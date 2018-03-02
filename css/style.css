@@ -5,24 +5,24 @@ body {
   margin: 0;
 }
 
+/* HEADER */
+
+.img_logo {
+  height: 3rem;
+}
+
 header {
   text-align: center;
 }
 
-/* to be deleted, just for visial help while coding*/
+/* LANDING SECTION */
 
-.item {
-  min-height: 50px;
+.img_wallpaper {
+  width: 100%;
 }
 
-header {
-  background-color: white;
+.about_me {
+  padding: 5px;
 }
 
-main {
-  background-color: blue;
-}
-
-footer {
-  background-color: pink;
-}
+/* PROJECTS SECTION */
