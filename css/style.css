@@ -9,20 +9,60 @@ body {
 
 .img_logo {
   height: 3rem;
+  text-align: left;
+  padding-left: 10%;
+}
+
+.name {
+  text-align: center;
 }
 
 header {
-  text-align: center;
+  border-bottom: 2px solid #0be;
+}
+
+h1 {
+  margin-bottom: 5px;
 }
 
 /* LANDING SECTION */
 
+.landing {
+  padding-top: 10px;
+}
+
 .img_wallpaper {
+  height: auto;
   width: 100%;
+  border-radius: 5px;
 }
 
 .about_me {
-  padding: 5px;
+  box-sizing: border-box;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 /* PROJECTS SECTION */
+
+h3 {
+  text-align: center;
+}
+
+.projects {
+  margin: 5px 0px 10px 0px;
+}
+
+.img_project {
+  width: 80%;
+  margin-left: 10%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.img_project:hover {
+  box-shadow: 0 0 2px 1px #1c8;
+  width: 90%;
+  margin-left: 5%;
+}
