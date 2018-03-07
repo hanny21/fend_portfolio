@@ -105,18 +105,22 @@ footer {
   width: 70px;
 }
 
+.github, .fcc, .linkedin {
+  color: #aaa;
+}
+
 .github:hover, .fcc:hover, .linkedin:hover {
   font-size: 2.5em;
 }
 
-.github {
+.github:hover {
   color: #000;
 }
 
-.fcc {
+.fcc:hover {
   color: #060;
 }
 
-.linkedin {
+.linkedin:hover {
   color: #07b;
 }
