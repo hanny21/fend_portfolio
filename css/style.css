@@ -93,6 +93,21 @@ footer {
   border-top: 2px solid #ddd;
 }
 
-.heart {
-  color: #f13;
+.social {
+  font-size: 2em;
+  display: inline-block;
+  width: 70px;
+  margin-left: 10px;
+}
+
+.github {
+  color: #000;
+}
+
+.fcc {
+  color: #060;
+}
+
+.linkedin {
+  color: #87e;
 }

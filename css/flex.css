@@ -93,3 +93,11 @@ header {
     }
   }
 }
+
+/* FOOTER SECTION */
+
+@media all and (min-width: 500px) {
+  footer p {
+    display: inline-block;
+  }
+}
