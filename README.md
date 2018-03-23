@@ -8,7 +8,7 @@ Links to all projects are on the portfolio site.
 * [Animal trading card](https://github.com/hanny21/animal_trading_card)
 * [Memory Game](https://github.com/hanny21/memory_game)
 * Classic Arcade Game Clone
-* Feed Reader Testing
+* [Feed Reader Testing](https://github.com/hanny21/feed_reader_testing)
 * Restaurant Reviews App
 * MyReads: A Book Tracking App
 * Neighborhood Map
