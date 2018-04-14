@@ -29,3 +29,5 @@ Links to all projects are on the portfolio site.
 ## Dependencies
 The project is using [Font Awesome](https://fontawesome.com/) and [Bubbler One Google Font](https://fonts.google.com/specimen/Bubbler+One).
 This project is built using HTML, CSS (including Flexbox) and JavaScript. No libraries are used.
+
+Web browser: Google Chrome (recommended), Mozilla Firefox
