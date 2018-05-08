@@ -7,7 +7,7 @@ This is my project for Udacity's Front-End Web Developer Nanodegree Program.
 Links to all projects are on the portfolio site.
 * [Animal trading card](https://github.com/hanny21/animal_trading_card)
 * [Memory Game](https://github.com/hanny21/memory_game)
-* Classic Arcade Game Clone
+* [Classic Arcade Game Clone](https://github.com/hanny21/arcade_clone)
 * [Feed Reader Testing](https://github.com/hanny21/feed_reader_testing)
 * Restaurant Reviews App
 * MyReads: A Book Tracking App
