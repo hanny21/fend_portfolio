@@ -79,7 +79,7 @@ h3 {
 .img_project:hover {
   -webkit-box-shadow: 0 0 2px 1px #1c8;
   box-shadow: 0 0 2px 1px #1c8;
-  width: 90%;
+  transform: scale(1.1);
   margin-left: 5%;
   -webkit-transition-duration: 0.25s;
   transition-duration: 0.25s;
