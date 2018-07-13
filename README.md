@@ -9,8 +9,8 @@ Links to all projects are on the portfolio site.
 * [Memory Game](https://github.com/hanny21/memory_game)
 * [Classic Arcade Game Clone](https://github.com/hanny21/arcade_clone)
 * [Feed Reader Testing](https://github.com/hanny21/feed_reader_testing)
-* [Restaurant Reviews App](https://hanny21.github.io/restaurant_reviews/)
-* MyReads: A Book Tracking App
+* [Restaurant Reviews App](https://github.com/hanny21/restaurant_reviews/)
+* [MyReads: A Book Tracking App](https://github.com/hanny21/my_reads)
 * Neighborhood Map
 
 ## Project Criterias
